@@ -9,10 +9,10 @@
 
 ## 克隆到本地
 
-If you prefer to do it manually with the cleaner git history
+如果您更喜欢手动操作，以获得更清晰的 Git 历史记录，可以按照以下步骤进行：
 
 ```bash
-git clone https://github.com/kbysiec/vite-vanilla-ts-lib-starter.git
+git clone https://github.com/rociez/nuxtflow-starter.git
 cd nuxtflow-starter
 pnpm i
 ```
