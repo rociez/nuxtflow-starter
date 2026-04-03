@@ -41,7 +41,7 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: 'nuxtflow v1.0.0',      
+      title: 'nuxtflow',      
     }
   },
   ssr: false,
