@@ -41,7 +41,7 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: '天瑞电子运营管理系统',      
+      title: 'nuxtflow v1.0.0',      
     }
   },
   ssr: false,
