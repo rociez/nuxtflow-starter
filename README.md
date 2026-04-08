@@ -17,6 +17,12 @@ cd nuxtflow-starter
 pnpm i
 ```
 
+```bash
+git clone git@github.com:rociez/nuxtflow-starter.git
+cd nuxtflow-starter
+pnpm i
+```
+
 ## 清单
 
 当您使用此模板时，请更新以下内容：
